@@ -1,6 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Gabriel and I am Computer Science student since 2019. Currently, i am studying Web development since 2020 and I really want to work with it because this is a area which I choose to grow.
+My name is Gabriel and I am Computer Science student since 2019. Currently, i am studying Web development since 2020 and I really want to work with it because this is a area which I chose to grow.
+
+## My Skills and Tools :man_technologist: 
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
 
 <!--
 **gabrielderodrigues/gabrielderodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
