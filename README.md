@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Gabriel and I am Computer Science student since 2019. Currently, i am studying Web development since 2020 and I really want to work with it because this is a area which I choose to grow.
+
 <!--
 **gabrielderodrigues/gabrielderodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
