@@ -1,6 +1,6 @@
-# Hey, dev 🙋🏻‍♂️
+# Hey, dev 🙋🏻‍♂️ 🇧🇷 
 
-My name is Gabriel and I am Computer Science student since 2019. Currently, I am studying Web development since 2020 and I really want to work with it because this is a area which I chose to grow. I'm from Brazil 🇧🇷 .
+My name is Gabriel and I am Computer Science student since 2019. Currently, I am studying Web development since 2020 and I really want to work with it because this is a area which I chose to grow. 
 
 ## My Skills and Tools :man_technologist: 
 
