@@ -9,6 +9,9 @@ My name is Gabriel and I am Computer Science student since 2019. Currently, i am
 ## Where you can find me 🕵🏽 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-oliveira-de-lima-rodrigues/)](https://www.linkedin.com/in/gabriel-oliveira-de-lima-rodrigues/)
 
+## If you are here...
+I have to say... do not give up on your dreams. Things can be difficult sometimes but you just have to believe on your ability then you will things getting better soon. Keep studying everyday and you will see the results of your effort. 
+
 <!--
 **gabrielderodrigues/gabrielderodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
