@@ -2,7 +2,7 @@
 
 My name is Gabriel and I am Computer Science student.
 
-Currently, I am working and studying to become a Full-Stack developer.
+Currently, I am working as a Full-Stack developer.
 
 ## My Skills and Tools :man_technologist: 
 
